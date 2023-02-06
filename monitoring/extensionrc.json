@@ -27,5 +27,5 @@
           }
       }
   },
-  "main_url": "https://www.ibm.com/cloud/monitoring"
+  "main_url": "http://localhost:4300"
 }
