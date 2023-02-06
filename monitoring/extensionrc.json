@@ -3,8 +3,8 @@
   "id": "monitoring",
   "name": "Monitoring",
   "icons": {
-      "light": "images/light/monitoring.svg",
-      "dark": "images/dark/monitoring.svg"
+    "light": "icons/icon-white.svg",
+    "dark": "icons/icon.svg"
   },
   "short_descriptions": {
       "en": "Monitoring of logs and resources",
