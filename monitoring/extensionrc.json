@@ -7,14 +7,14 @@
       "dark": "images/dark/monitoring.svg"
   },
   "short_descriptions": {
-      "en": "K8s monioring",
-      "es": "K8s monioring",
-      "pt": "K8s monioring"
+      "en": "Monitoring of logs and resources",
+      "es": "Monitoreo de logs y recursos",
+      "pt": "Monioring de logs e recursos"
   },
   "descriptions": {
-      "en": "K8s monioring",
-      "es": "K8s monioring",
-      "pt": "K8s monioring"
+      "en": "Monitoring of logs and resources of your k8s product",
+      "es": "Monitoreo de logs y recursos de tu producto k8s",
+      "pt": "Monioring de logs e recursos do seu produto k8s"
   },
   "tags": ["K8s", "monitoring"],
   "trigger": {
