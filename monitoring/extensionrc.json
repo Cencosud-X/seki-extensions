@@ -21,9 +21,9 @@
       "kind": "product_tab_click",
       "config": {
           "tab_name": {
-              "en": "K8s monioring",
-              "es": "K8s monioring",
-              "pt": "K8s monioring"
+              "en": "Monitoring",
+              "es": "Monitoreo",
+              "pt": "Monioring"
           }
       }
   },
