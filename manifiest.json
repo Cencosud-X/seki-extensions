@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Cencosud-X/seki-schemas/main/v1/extensions/manifiestrc.schema.json",
+  "name": "Seki extensions",
+  "author": {
+    "github_user": "cencosudx",
+    "name": "Team Seki"
+  },
+  "descriptions": {
+    "en": "Catalog of Seki extensions available to install in your Seki App",
+    "es": "Catálogo de extensiones Seki disponibles para instalar en tu aplicación Seki"
+  },
+  "types": [
+    "monitoring/extensionrc.json"
+  ]
+}

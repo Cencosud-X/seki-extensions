@@ -1,0 +1,31 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Cencosud-X/seki-schemas/main/v1/extensions/extensionrc.schema.json",
+  "id": "monitoring",
+  "name": "Monitoring",
+  "icons": {
+      "light": "images/light/monitoring.svg",
+      "dark": "images/dark/monitoring.svg"
+  },
+  "short_descriptions": {
+      "en": "K8s monioring",
+      "es": "K8s monioring",
+      "pt": "K8s monioring"
+  },
+  "descriptions": {
+      "en": "K8s monioring",
+      "es": "K8s monioring",
+      "pt": "K8s monioring"
+  },
+  "tags": ["K8s", "monitoring"],
+  "trigger": {
+      "kind": "product_tab_click",
+      "config": {
+          "tab_name": {
+              "en": "K8s monioring",
+              "es": "K8s monioring",
+              "pt": "K8s monioring"
+          }
+      }
+  },
+  "main_url": "https://www.ibm.com/cloud/monitoring"
+}
