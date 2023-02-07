@@ -27,6 +27,6 @@
           }
       }
   },
-  "main_url": "http://localhost:4300",
+  "main_url": "https://seki-monitoring-extension-web.cencosudx.xyz",
   "min_supported_version": "0.0.20"
 }
