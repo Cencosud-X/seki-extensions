@@ -16,7 +16,7 @@
       "es": "Monitoreo de logs y recursos de tu producto k8s",
       "pt": "Monioring de logs e recursos do seu produto k8s"
   },
-  "tags": ["K8s", "monitoring"],
+  "tags": ["K8s", "monitoring", "grafana", "prometheus", "logs"],
   "trigger": {
       "kind": "product_tab_click",
       "config": {
