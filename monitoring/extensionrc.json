@@ -27,5 +27,6 @@
           }
       }
   },
-  "main_url": "http://localhost:4300"
+  "main_url": "http://localhost:4300",
+  "min_supported_version": "0.0.20"
 }
