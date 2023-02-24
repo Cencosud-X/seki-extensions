@@ -9,21 +9,21 @@
   "short_descriptions": {
       "en": "Monitoring of logs and resources",
       "es": "Monitoreo de logs y recursos",
-      "pt": "Monioring de logs e recursos"
+      "pt": "Monitoramento de logs e recursos"
   },
   "descriptions": {
-      "en": "Monitoring of logs and resources of your k8s product",
-      "es": "Monitoreo de logs y recursos de tu producto k8s",
-      "pt": "Monioring de logs e recursos do seu produto k8s"
+      "en": "Monitoring of logs and resources of your projects and cloud components",
+      "es": "Monitoreo de logs y recursos de tus proyectos y componentes nube",
+      "pt": "Monitoramento de logs e recursos de seus projetos e componentes de nuvem"
   },
   "tags": ["K8s", "monitoring", "grafana", "logs"],
   "trigger": {
       "kind": "product_tab_click",
       "config": {
           "tab_name": {
-              "en": "Monitoring",
-              "es": "Monitoreo",
-              "pt": "Monioring"
+              "en": "Observability",
+              "es": "Observabilidad",
+              "pt": "Observabilidade"
           }
       }
   },
