@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/Cencosud-X/seki-schemas/main/v1/extensions/extensionrc.schema.json",
   "id": "redis",
-  "name": "Experimental",
+  "name": "Redis viewer",
   "icons": {
     "light": "icons/icon-white.svg",
     "dark": "icons/icon.svg"
@@ -21,12 +21,13 @@
       "kind": "product_tab_click",
       "config": {
           "tab_name": {
-              "en": "Experimental",
-              "es": "Experimental",
-              "pt": "Experimental"
+              "en": "Redis viewer",
+              "es": "Redis viewer",
+              "pt": "Redis viewer"
           }
       }
   },
   "main_url": "https://seki-redis-extension-web.cencosudx.xyz",
-  "min_supported_version": "0.0.22"
+  "min_supported_version": "0.0.22",
+  "products": ["seki,seki-ci,seki-redis-extension,seki-library-ci-cd-test"]
 }
