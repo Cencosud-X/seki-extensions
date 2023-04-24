@@ -27,7 +27,7 @@
           }
       }
   },
-  "main_url": "https://seki-redis-extension-web.cencosudx.xyz",
+  "main_url": "https://seki-redis-extension-ui.cencox.xyz",
   "min_supported_version": "0.0.22",
-  "products": ["seki,seki-ci", "seki-redis-extension", "seki-library-ci-cd-test"]
+  "products": ["seki", "seki-ci", "seki-redis-extension", "seki-library-ci-cd-test"]
 }
