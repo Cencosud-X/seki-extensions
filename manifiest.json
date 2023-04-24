@@ -10,6 +10,7 @@
     "es": "Catálogo de extensiones Seki disponibles para instalar en tu aplicación Seki"
   },
   "types": [
-    "monitoring/extensionrc.json"
+    "monitoring/extensionrc.json",
+    "redis/extensionrc.json"
   ]
 }
