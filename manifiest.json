@@ -11,6 +11,7 @@
   },
   "types": [
     "monitoring/extensionrc.json",
-    "redis/extensionrc.json"
+    "redis/extensionrc.json",
+    "dbvisualizer/extensionrc.json"
   ]
 }
