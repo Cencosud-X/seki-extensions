@@ -11,24 +11,17 @@
     "es": "Visualización de datos"
   },
   "descriptions": {
-    "en": "Data visualization",
-    "es": "Visualización de datos"
+    "en": "Data visualization for many database systems",
+    "es": "Herramienta de visualización de datos que soporta las bases de datos más conocidas"
   },
   "tags": [
     "Database"
   ],
   "trigger": {
     "kind": "product_tab_click",
-    "config": {
-      "tab_name": {
-        "en": "temporary_fix_me",
-        "es": "temporary_fix_me",
-        "pt": "temporary_fix_me"
-      }
-    }
+    "config": {}
   },
   "main_url": "https://bushido-bdvisualizer.cencox.xyz",
-  "min_supported_version": "0.2.0",
   "products": [
     "seki"
   ]
