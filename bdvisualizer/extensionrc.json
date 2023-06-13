@@ -1,1 +1,35 @@
-{"$schema":"https://raw.githubusercontent.com/Cencosud-X/seki-schemas/main/v1/extensions/extensionrc.schema.json","id":"bdvisualizer","name":"DB Visualizer","icons":{"light":"icons/icon-white.svg","dark":"icons/icon.svg"},"short_descriptions":{"en":"Data visualization","es":"Visualización de datos"},"descriptions":{"en":"Data visualization","es":"Visualización de datos"},"tags":["Database"],"trigger":{"kind":"product_tab_click","config":{"tab_name":{"en":"temporary_fix_me","es":"temporary_fix_me","pt":"temporary_fix_me"}}},"main_url":"https://bushido-bdvisualizer.cencox.xyz","min_supported_version":"0.2.0","products":["seki"]}
+{
+  "$schema": "https://raw.githubusercontent.com/Cencosud-X/seki-schemas/main/v1/extensions/extensionrc.schema.json",
+  "id": "bdvisualizer",
+  "name": "DB Visualizer",
+  "icons": {
+    "light": "icons/icon-white.svg",
+    "dark": "icons/icon.svg"
+  },
+  "short_descriptions": {
+    "en": "Data visualization",
+    "es": "Visualización de datos"
+  },
+  "descriptions": {
+    "en": "Data visualization",
+    "es": "Visualización de datos"
+  },
+  "tags": [
+    "Database"
+  ],
+  "trigger": {
+    "kind": "product_tab_click",
+    "config": {
+      "tab_name": {
+        "en": "temporary_fix_me",
+        "es": "temporary_fix_me",
+        "pt": "temporary_fix_me"
+      }
+    }
+  },
+  "main_url": "https://bushido-bdvisualizer.cencox.xyz",
+  "min_supported_version": "0.2.0",
+  "products": [
+    "seki"
+  ]
+}
