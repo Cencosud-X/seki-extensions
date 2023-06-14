@@ -21,8 +21,8 @@
     "kind": "product_tab_click",
     "config": {
       "tab_name": {
-        "en": "experimental",
-        "es": "experimental"
+        "en": "experimental(en)",
+        "es": "experimental(es)"
       }
     }
   },
