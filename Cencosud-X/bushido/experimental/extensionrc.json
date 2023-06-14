@@ -1,0 +1,34 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Cencosud-X/seki-schemas/main/v1/extensions/extensionrc.schema.json",
+  "id": "experimental",
+  "name": "experimental",
+  "icons": {
+    "light": "icons/icon-white.svg",
+    "dark": "icons/icon.svg"
+  },
+  "short_descriptions": {
+    "en": "don't use!",
+    "es": "no utilizar!"
+  },
+  "descriptions": {
+    "en": "this is just a test. don't use it",
+    "es": "este es un proyecto de prueba. no utilizar"
+  },
+  "tags": [
+    "database"
+  ],
+  "trigger": {
+    "kind": "product_tab_click",
+    "config": {
+      "tab_name": {
+        "en": "experimental(en)",
+        "es": "experimental(es)"
+      }
+    }
+  },
+  "main_url": "https://bushido-experimental.cencox.xyz",
+  "min_supported_version": "0.2.0",
+  "products": [
+    "seki"
+  ]
+}
