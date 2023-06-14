@@ -12,6 +12,7 @@
   "types": [
     "monitoring/extensionrc.json",
     "redis/extensionrc.json",
-    "experimental/extensionrc.json"
+    "experimental/extensionrc.json",
+    "bushido/experimental/extensionrc.json"
   ]
 }
