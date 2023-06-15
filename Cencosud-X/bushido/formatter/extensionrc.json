@@ -22,8 +22,8 @@
     "kind": "product_tab_click",
     "config": {
       "tab_name": {
-        "en": "formatter(L-en)",
-        "es": "formatter(L-es)"
+        "en": "formatter",
+        "es": "formatter"
       }
     }
   },
