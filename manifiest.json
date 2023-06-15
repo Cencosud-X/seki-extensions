@@ -12,6 +12,7 @@
   "types": [
     "monitoring/extensionrc.json",
     "redis/extensionrc.json",
-    "Cencosud-X/bushido/experimental/extensionrc.json"
+    "Cencosud-X/bushido/experimental/extensionrc.json",
+    "Cencosud-X/bushido/formatter/extensionrc.json"
   ]
 }
