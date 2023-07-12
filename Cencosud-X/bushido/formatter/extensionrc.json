@@ -1,0 +1,35 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Cencosud-X/seki-schemas/main/v1/extensions/extensionrc.schema.json",
+  "id": "formatter",
+  "name": "formatter name",
+  "icons": {
+    "light": "icons/icon-white.svg",
+    "dark": "icons/icon.svg"
+  },
+  "short_descriptions": {
+    "en": "formatter for text files",
+    "es": "formatear ficheros de texto"
+  },
+  "descriptions": {
+    "en": "long description: formatter for text files",
+    "es": "long description: formatear ficheros de texto"
+  },
+  "tags": [
+    "editor",
+    "code"
+  ],
+  "trigger": {
+    "kind": "product_tab_click",
+    "config": {
+      "tab_name": {
+        "en": "Formatter",
+        "es": "Formatter"
+      }
+    }
+  },
+  "main_url": "https://bushido-formatter.cencosudx.xyz",
+  "min_supported_version": "0.2.0",
+  "products": [
+    "bushido"
+  ]
+}
