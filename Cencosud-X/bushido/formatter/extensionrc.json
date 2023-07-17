@@ -31,5 +31,10 @@
   "min_supported_version": "0.2.0",
   "products": [
     "bushido"
-  ]
+  ],
+  "depends_on": {
+    "cloud_components": {
+      "allOf": ["redis"]
+    }
+  }
 }
