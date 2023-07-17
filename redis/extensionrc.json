@@ -29,5 +29,10 @@
   },
   "main_url": "https://seki-redis-extension-ui.cencox.xyz",
   "min_supported_version": "0.0.22",
-  "products": ["ALL"]
+  "products": ["ALL"],
+  "depends_on": {
+    "cloud_components": {
+      "allOf": ["redis"]
+    }
+  }
 }
