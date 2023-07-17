@@ -34,7 +34,7 @@
   ],
   "depends_on": {
     "cloud_components": {
-      "allOf": ["github"]
+      "allOf": ["github", "redis"]
     }
   }
 }
